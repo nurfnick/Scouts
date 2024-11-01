@@ -1,0 +1,63 @@
+\documentclass[frontgrid,letterpaper,12pt]{flacards}
+
+
+% \usepackage[scaled=0.85]{beramono}
+\usepackage{color}
+
+\usepackage{etoolbox}
+\pretocmd{\card}{\def\curhint{#1}}{}{}
+
+\pagesetup{3}{6}
+
+%\usepackage{xeCJK}
+
+% \setCJKmainfont{AR PL UKai CN}
+%\setmainfont{Linux Libertine O}
+% \setmainfont{mono}
+
+% \setmainfont{BitStream Vera Mono}
+
+
+\renewcommand{\cardtextstylef}{\Huge}
+\renewcommand{\cardtextstyleb}{\small}
+\renewcommand{\frfoot}{Charades}
+\renewcommand{\brfoot}{}
+
+% Temporarily disable new lines when displaying the riddle on the back
+
+\renewcommand{\bcfoot}{\let\\\relax\footnotesize\curhint}
+% \renewcommand{\blfoot}{\footnotesize chris}
+% \renewcommand{\blfoot}{\footnotesize Ashley}
+% \renewcommand{\blfoot}{\footnotesize Casandra}
+% \renewcommand{\blfoot}{\footnotesize Jessica}
+
+\renewcommand{\flhead}{\footnotesize\thecardno}
+\renewcommand{\brhead}{\footnotesize\thecardno}
+
+\begin{document}
+\card{Hike}{1}
+\card{Brush Teeth}{2}
+\card{Eat Supper}{3}
+\card{Shower}{4}
+\card{Ride a Bike}{5}
+\card{Play T-Ball}{6}
+\card{Get Dressed}{7}
+\card{Take a Test}{8}
+\card{Go Fishing}{9}
+
+\card{Eat Ice Cream}{10}
+\card{Row a Boat}{11}
+\card{Pillow Fight}{12}
+\card{Play Soccer}{13}
+\card{Juggle}{14}
+\card{Limbo}{15}
+\card{Pledge of Allegiance}{16}
+\card{Scout Oath or Law}{17}
+\card{Take a Nap}{18}
+
+\end{document}
+
+
+
+
+
