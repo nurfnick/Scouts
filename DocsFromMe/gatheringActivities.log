@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2023.5.31)  29 OCT 2024 08:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2023.5.31)  15 NOV 2024 08:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -268,31 +268,31 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 ]
 This exam contains 0 questions with 0 parts, 0 subparts, and 0 subsubparts.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
 (./gatheringActivities.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
 Package rerunfilecheck Info: File `gatheringActivities.out' has not changed.
 (rerunfilecheck)             Checksum: 2EA403E1423EEF95E4C63798C261401B;88.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
  ) 
 Here is how much of TeX's memory you used:
  5300 strings out of 492982
  78866 string characters out of 6134896
- 173997 words of memory out of 5000000
+ 174997 words of memory out of 5000000
  8883 multiletter control sequences out of 15000+600000
  4553 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,9n,28p,182b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,9n,28p,261b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on gatheringActivities.pdf (1 page, 44322 bytes).
+Output written on gatheringActivities.pdf (1 page, 46036 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
  17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
